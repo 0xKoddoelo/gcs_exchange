@@ -5,7 +5,7 @@ import DefaultUpload from './DefaultUpload';
 class FileUpload extends React.Component {
     render() {
         return (
-            <div className="example">
+            <div className="example2">
                 <h2>
                     React Js File upload to google cloud storage using multer
                 </h2>
